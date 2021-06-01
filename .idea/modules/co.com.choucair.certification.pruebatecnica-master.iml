@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="co.com.choucair.certification.pruebatecnica-master" external.linked.project.path="D:/co.com.choucair.certification.pruebatecnica-master" external.root.project.path="D:/co.com.choucair.certification.pruebatecnica-master" external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://D:/co.com.choucair.certification.pruebatecnica-master">
+      <excludeFolder url="file://D:/co.com.choucair.certification.pruebatecnica-master/.gradle" />
+      <excludeFolder url="file://D:/co.com.choucair.certification.pruebatecnica-master/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="16" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
